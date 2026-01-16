@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#58a6ff;">Hi, I'm Chan Nyein Thu 👋</h1>
+<h1 align="center" style="color:#58a6ff;">Hi, I'm Chan Nyein Thu </h1>
 <h3 align="center" style="color:#c9d1d9;">A Full-Stack Developer building scalable web & mobile applications</h3>
 
 <p align="center">
@@ -7,22 +7,22 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 💻 I'm a passionate full-stack developer who enjoys turning ideas into products.
-- 🚀 Building both **frontend** and **backend** applications with modern tools.
-- 🧪 Exploring Go, GORM, Docker, and scalable backend architecture.
-- 🌍 Based in **Thailand** | Open to remote jobs & freelance opportunities.
+-  I'm a passionate full-stack developer who enjoys turning ideas into products.
+-  Building both **frontend** and **backend** applications with modern tools.
+-  Exploring Go, GORM, Docker, and scalable backend architecture.
+-  Based in **Thailand** | Open to remote jobs & freelance opportunities.
 
 ---
 
-### 🔧 Tech Stack
+###  Tech Stack
 
-#### 💡 Languages & Frameworks
+####  Languages & Frameworks
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,tailwind,flutter,go,docker)
 
-#### 🛢️ Databases & Dev Tools
+####  Databases & Dev Tools
 
 ![More Tools](https://skillicons.dev/icons?i=prisma,mysql,mongodb,git,github,vscode)
 
