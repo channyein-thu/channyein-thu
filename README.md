@@ -20,10 +20,10 @@
 
 ####  Languages & Frameworks
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,tailwind,flutter,go,docker)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,tailwind,flutter,go)
 
 ####  Databases & Dev Tools
 
-![More Tools](https://skillicons.dev/icons?i=prisma,mysql,mongodb,git,github,vscode)
+![More Tools](https://skillicons.dev/icons?i=prisma,mysql,mongodb,git,github,vscode,docker)
 
 
