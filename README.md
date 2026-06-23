@@ -54,6 +54,4 @@ I'm a passionate Software Engineering student and Full-Stack Developer who enjoy
 
 ## 📫 Connect With Me
 
-- LinkedIn:
-- Portfolio:
 - Email: 892003channyeinthu@gmail.com
