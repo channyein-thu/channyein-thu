@@ -78,16 +78,6 @@ Full-stack review and rating platform with role-based access control, Redis cach
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=channyein-thu&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=channyein-thu&layout=compact&theme=default" height="165"/>
-</p>
-
-*(Replace `channyein-thu` with your exact GitHub username if different — these stats cards render automatically once your username is correct.)*
-
----
 
 ### 📫 Connect With Me
 
