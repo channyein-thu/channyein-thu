@@ -82,4 +82,5 @@ Full-stack review and rating platform with role-based access control, Redis cach
 
 <p align="center">
   <a href="mailto:892003channyeinthu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/chan-nyein-thu-5303912b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
