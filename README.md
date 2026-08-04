@@ -26,15 +26,14 @@ I'm a Software Engineering student at Mae Fah Luang University (GPA 3.9+/4.00) a
 
 ### 🚀 Featured Projects
 
-**[Doi Tung Training Plan Management System](#)** — Senior Project
+**[Doi Tung Training Plan Management System](https://github.com/channyein-thu/training-server.git)** — Senior Project
 Role-based employee training platform (HR Admin / Department Manager / Staff) with JWT + Google OAuth authentication, certificate approval workflows, Excel export, and optimized MySQL/GORM schemas. Containerized with Docker.
 `Go` `Fiber` `MySQL` `Docker`
 
-**[Course-Professor Review Hub](#)** — Full-Stack Project
+**[Course-Professor Review Hub](https://github.com/channyein-thu/Rate-wise.git)** — Full-Stack Project
 Full-stack review and rating platform with role-based access control, Redis caching, BullMQ background jobs, and secure authentication (JWT, rate limiting, CORS).
 `Next.js` `React` `TypeScript` `Express.js` `Prisma`
 
-*(Replace the `#` links above with your actual GitHub repo URLs.)*
 
 ---
 
